@@ -11,10 +11,10 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   Seminar and seeks to bring together researchers in the design,
   analysis, and application of programming languages to build new
   collaborations among students and researchers in the southeast
-  United States.  SERPL's consists of a full day of research talks
-  from student researchers at the undergraduate and graduate level,
-  and is a venue for students to get feedback on their work before
-  submission to a major conference.
+  United States.  SERPL's program consists of a full day of research
+  talks from student researchers at the undergraduate and graduate
+  level, and is a venue for students to get feedback on their work
+  before submission to a major conference.
 
   We are extremely excited to announce that the keynote speaker is:
 
