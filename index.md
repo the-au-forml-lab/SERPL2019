@@ -86,7 +86,7 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 
   - [Harley Eades III](http://metatheorem.org/) (chair)
 
-  - [Cl\'ement Aubert](http://spots.augusta.edu/caubert/) (cochair)
+  - [Clément Aubert](http://spots.augusta.edu/caubert/) (cochair)
 
   - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (cochair)
 
