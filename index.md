@@ -81,3 +81,9 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2).  The application
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
+
+- **Sponsors**:
+
+  - [National Science Foundation (NSF)](https://nsf.gov/)
+  
+  - [The Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs)
