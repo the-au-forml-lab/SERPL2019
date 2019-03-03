@@ -1,97 +1,83 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+- **When**: May 11, 2019
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+- **Where**: [Augusta University](https://www.augusta.edu/ccs) in Augusta Georgia
 
-## Setup Guide
+- **What**: SERPL is the Southeast Regional Programming Languages
+  Seminar and seeks to bring together researchers in the design,
+  analysis, and application of programming languages to build new
+  collaborations among students and researchers in the southeast
+  United States.  SERPL's consists of a full day of research talks
+  from student researchers at the undergraduate and graduate level,
+  and is a venue for students to get feedback on their work before
+  submission to a major conference.
 
-### Fork this repository
+  We are extremely excited to announce that the keynote speaker is:
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+  **Alexis King** : A principle developer of the [Racket
+  language](https://racket-lang.org/) at Northwestern University in
+  Chicago, Illinois.
 
-### Rename your forked repository
+- **Registration**: Registration of all SERPL attendees is required
+    and can be completed by submitting the SERPL [registration form](https://goo.gl/forms/Oeae43eUlqTYqTwi2).
 
-Here we have two possibilities:
+- **Scope**: SERPL scope is kept very broad in order to allow as many people to
+  contribute as possible, but the following is an incomplete list of
+  topics for SERPL related research:
+  
+  - Programming Language Design
 
-* **You want a user or organization website**
+  - Implementation aspects of programming languages
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+  - Software-Development Techniques
 
-  Go in the `Settings` page of your repository and rename it to `<your username>.github.io`.
+  - Foundations of Programming Languages
 
-* **You want a project website**
+  - Software Analysis
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+  - Applications of programming languages
 
-  Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
+  - Domain-specific languages
 
-### Activate Github Pages on your repository
+  - Programming-language related education
+        
+  The previous list of topics is not comprehensive, and if your topic
+  is not listed, then this should not prevent you from submitting your
+  work.
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+- **Submissions**:  All of the important deadlines are as follows:
 
-### That's it
+  - Talk Abstracts Due: March 20th, 2019
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+  - Notification of Acceptance: April 5th, 2019
 
-## Customization Guide
+  - Registration closes: April 15th, 2019
 
-### Modify the configuration
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+  Please submit in the form of a single PDF file a two page talk
+  abstract.  All submissions should be prepared using LaTeX using the
+  authors favorite style with a font size of no smaller than 11 points,
+  and a margin of no smaller than one inch.
 
-### Customize your theme
+  All submission should be submitted via [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdtcs3SewZ-Q5v0Ow8ccPCA8DK9WnRKVwbgDBxXE4zS57BkIQ/viewform?usp=sf_link).
 
-Let's be honest, this theme uses a vanilla version of Bootstrap 4 and an unmodified Bootstrap is quite unpleasant to the eye. You want to change that.
+  There will be no formal proceedings, but all abstracts and slides
+  will be posted on this site.
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
+- **Travel Support**: SERPL is graciously supported by the [National Science Foundation (NSF)](https://nsf.gov/).
 
-But if you don't know where to start I can recommend you to import a starting theme from [Bootswatch](https://bootswatch.com/).
+  We are accepting applications for student travel support to SERPL.
 
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
+  In addition, we have set aside a portion of our student travel
+  awards for funding undergraduate students, women, underrepresented
+  minorities, and LBGTQ+ people.
 
-That's it, you now have a totally different appearance compared to a vanilla Bootstrap 4.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-[See the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-
-## Other projects
-
-[Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) which documents how to publish Markown files to Github Pages in the fastest way.
+  Student travel grant applications can be submitted by filling out
+  the [student travel grant
+  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2).  The application
+  requires a letter from the students research supervisor asserting
+  that the student has no other means of funding to attend SERPL.
