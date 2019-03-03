@@ -82,6 +82,14 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
+- **Organizers**:
+
+  - [Harley Eades III](http://metatheorem.org/) (chair)
+
+  - [Cl\'ement Aubert](http://spots.augusta.edu/caubert/) (cochair)
+
+  - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (cochair)
+
 - **Sponsors**:
 
   - [National Science Foundation (NSF)](https://nsf.gov/)
