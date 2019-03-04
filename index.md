@@ -3,7 +3,11 @@ layout: page
 title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 ---
 
-- **What**: SERPL is the Southeast Regional Programming Languages
+## The Venue
+
+### What
+
+SERPL is the Southeast Regional Programming Languages
   Seminar and seeks to bring together researchers in the design,
   analysis, and application of programming languages to build new
   collaborations among students and researchers in the southeast
@@ -18,12 +22,24 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   language](https://racket-lang.org/) at Northwestern University in
   Chicago, Illinois.
 
-- **When**: May 11, 2019
+### When
 
-- **Where**: SERPL will be held in the [Georgia Cyber Center (GCC)]()
+May 11, 2019
+
+### Where
+
+SERPL will be held in the [Georgia Cyber Center (GCC)]()
   the new home of the
   [Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs).
+  
+  <!--
   <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779" width="300" height="225" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+-->
+
+  <div>
+    <object width="600" height="450" style="border:0" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
+  </div>
+
   There are several hotels near the GCC, here are a few suggestions:
 
   - [Augusta Marriott at the Convention Center](https://www.marriott.com/hotels/travel/agsmc-augusta-marriott-at-the-convention-center/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) - five minute walk to the GCC
@@ -32,10 +48,14 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 
   The GCC is in the Augusta downtown, and there are tons of restaurants, pubs, and bars within walking distance.  
 
-- **Registration**: Registration of all SERPL attendees is required
+## Registration
+
+Registration of all SERPL attendees is required
     and can be completed by submitting the SERPL [registration form](https://goo.gl/forms/Oeae43eUlqTYqTwi2).
 
-- **Scope**: SERPL scope is kept very broad in order to allow as many people to
+## Scope
+
+SERPL scope is kept very broad in order to allow as many people to
   contribute as possible, but the following is an incomplete list of
   topics for SERPL related research:
   
@@ -59,7 +79,9 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   is not listed, then this should not prevent you from submitting your
   work.
 
-- **Submissions**:  All of the important deadlines are as follows:
+## Submissions
+
+All of the important deadlines are as follows:
 
   - Talk Abstracts Due: March 20th, 2019
 
@@ -78,7 +100,9 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   There will be no formal proceedings, but all abstracts and slides
   will be posted on this site.
 
-- **Travel Support**: SERPL is graciously supported by the [National Science Foundation (NSF)](https://nsf.gov/).
+## Travel Support
+
+SERPL is graciously supported by the [National Science Foundation (NSF)](https://nsf.gov/).
 
   We are accepting applications for student travel support to SERPL.
 
@@ -92,7 +116,7 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
-- **Organizers**:
+## Organizers
 
   - [Harley Eades III](http://metatheorem.org/) (chair)
 
@@ -100,7 +124,7 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 
   - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (cochair)
 
-- **Sponsors**:
+## Sponsors
 
   - [National Science Foundation (NSF)](https://nsf.gov/)
   
