@@ -30,7 +30,7 @@ SERPL will be held in the [Georgia Cyber Center (GCC)]()
   the new home of the
   [Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs).
   
-  <div style="margin:auto">
+  <div style="margin:auto; text-align:center">
     <object width="300" height="250" style="border:0;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
   </div>
 
