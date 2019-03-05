@@ -22,7 +22,14 @@ SERPL is the Southeast Regional Programming Languages
 
 ## When
 
-May 11, 2019
+The seminar will take place on Saturday, **May 11, 2019**.
+
+Other important dates include:
+
+- Talk Abstracts Due: March 20th, 2019 
+- Notification of Acceptance: April 5th, 2019 
+- Student Travel Grant Application Due: April 8th, 2019
+- Registration closes: April 15th, 2019 
 
 ## Where
 
@@ -74,7 +81,6 @@ All of the important deadlines are as follows:
   - Notification of Acceptance: April 5th, 2019
   - Registration closes: April 15th, 2019
 
-
   Please submit in the form of a single PDF file a two page talk
   abstract.  All submissions should be prepared using LaTeX using the
   authors favorite style with a font size of no smaller than 11 points,
@@ -97,7 +103,7 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
 
   Student travel grant applications can be submitted by filling out
   the [student travel grant
-  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2).  The application
+  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before **April 8th**. The application
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
