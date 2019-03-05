@@ -35,7 +35,7 @@ Other important dates include:
 
 SERPL will be held in the [Georgia Cyber Center (GCC)]()
   the new home of the
-  [Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs).
+  [Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
   
   <div style="margin:auto; text-align:center">
     <object width="300" height="250" style="border:0;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
@@ -44,7 +44,6 @@ SERPL will be held in the [Georgia Cyber Center (GCC)]()
   There are several hotels near the GCC, here are a few suggestions:
 
   - [Augusta Marriott at the Convention Center](https://www.marriott.com/hotels/travel/agsmc-augusta-marriott-at-the-convention-center/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) - five minute walk to the GCC
-
   - [Holiday Inn Express Augusta Downtown](https://www.ihg.com/holidayinnexpress/hotels/us/en/augusta/agsdt/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-AGSDT)
 
   The GCC is in the Augusta downtown, and there are tons of restaurants, pubs, and bars within walking distance.  
@@ -103,7 +102,7 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
 
   Student travel grant applications can be submitted by filling out
   the [student travel grant
-  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before **April 8th**. The application
+  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before April 8th. The application
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
