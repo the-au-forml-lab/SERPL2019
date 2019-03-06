@@ -16,26 +16,25 @@ SERPL is the Southeast Regional Programming Languages
 
   We are extremely excited to announce that the keynote speaker is:
 
-  **Alexis King** : A principle developer of the [Racket
-  language](https://racket-lang.org/) at Northwestern University in
-  Chicago, Illinois.
+  **Alexis King** : Research programmer at [Northwestern University
+  PLT](https://plt.eecs.northwestern.edu/) in Chicago, Illinois.
 
 ## When
 
-The seminar will take place on Saturday, **May 11, 2019**.
+All of the important deadlines are as follows:
 
-Other important dates include:
-
-- Talk Abstracts Due: March 20th, 2019 
-- Notification of Acceptance: April 5th, 2019 
-- Student Travel Grant Application Due: April 8th, 2019
-- Registration closes: April 15th, 2019 
+  - Talk Abstracts Due: March 20th, 2019
+  - Notification of Acceptance: April 5th, 2019
+  - Student Travel Grant Application Due: April 8th, 2019
+  - Registration closes: April 15th, 2019
+  - Workshop: May 11, 2019
 
 ## Where
 
-SERPL will be held in the [Georgia Cyber Center (GCC)]()
-  the new home of the
-  [Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
+SERPL will be held in the [Georgia Cyber Center
+(GCC)](https://cybercenter.georgia.gov/) the new home of the [Augusta
+University School of Computer and Cyber
+Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
   
   <div style="margin:auto; text-align:center">
     <object width="300" height="250" style="border:0;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
@@ -73,12 +72,6 @@ SERPL scope is kept very broad in order to allow as many people to
   work.
 
 ## Submissions
-
-All of the important deadlines are as follows:
-
-  - Talk Abstracts Due: March 20th, 2019
-  - Notification of Acceptance: April 5th, 2019
-  - Registration closes: April 15th, 2019
 
   Please submit in the form of a single PDF file a two page talk
   abstract.  All submissions should be prepared using LaTeX using the
