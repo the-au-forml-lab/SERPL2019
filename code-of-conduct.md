@@ -1,3 +1,8 @@
+---
+layout: page
+title: SERPL Code of Conduct
+---
+
 SERPL strives to be a welcoming and inclusive environment for
 everyone.  To help enforce this policy SERPL has adopted the [ACM Code
 of
