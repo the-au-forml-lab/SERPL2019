@@ -27,7 +27,7 @@ All of the important deadlines are as follows:
   - Notification of Acceptance: April 5th, 2019
   - Student Travel Grant Application Due: April 8th, 2019
   - Registration closes: April 15th, 2019
-  - Workshop: May 11, 2019
+  - Seminar: May 11, 2019
 
 ## Where
 
