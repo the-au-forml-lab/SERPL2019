@@ -5,14 +5,14 @@ title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
 
 ## What
 
-SERPL is the Southeast Regional Programming Languages
-  Seminar and seeks to bring together researchers in the design,
-  analysis, and application of programming languages to build new
-  collaborations among students and researchers in the southeast
-  United States.  SERPL's program consists of a full day of research
-  talks from student researchers at the undergraduate and graduate
-  level, and is a venue for students to get feedback on their work
-  before submission to a major conference.
+SERPL is the Southeast Regional Programming Languages Seminar and
+  seeks to bring together researchers in the design, analysis, and
+  application of programming languages to build new collaborations
+  among students and researchers in the Southeastern United States.
+  SERPL's program consists of a full day of research talks from
+  student researchers at the undergraduate and graduate
+  level. Furthermore, SERPL is a venue for students to get feedback on
+  their work before submission to a major conference.
 
   We are extremely excited to announce that the keynote speaker is:
 
@@ -31,8 +31,8 @@ All of the important deadlines are as follows:
 
 ## Where
 
-SERPL will be held in the [Georgia Cyber Center
-(GCC)](https://cybercenter.georgia.gov/) the new home of the [Augusta
+SERPL will be held at the [Georgia Cyber Center
+(GCC)](https://cybercenter.georgia.gov/), the new home of the [Augusta
 University School of Computer and Cyber
 Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
   
@@ -40,12 +40,12 @@ Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
     <object width="300" height="250" style="border:0;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
   </div>
 
-  There are several hotels near the GCC, here are a few suggestions:
+  There are several hotels near the GCC. Here are a few suggestions:
 
   - [Augusta Marriott at the Convention Center](https://www.marriott.com/hotels/travel/agsmc-augusta-marriott-at-the-convention-center/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) - five minute walk to the GCC
   - [Holiday Inn Express Augusta Downtown](https://www.ihg.com/holidayinnexpress/hotels/us/en/augusta/agsdt/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-AGSDT)
 
-  The GCC is in the Augusta downtown, and there are tons of restaurants, pubs, and bars within walking distance.  
+  The GCC is in downtown Augusta, where there are tons of restaurants, pubs, and bars within walking distance.  
 
 ## Registration
 
