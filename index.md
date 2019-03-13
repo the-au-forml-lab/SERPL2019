@@ -16,7 +16,7 @@ SERPL is the Southeast Regional Programming Languages Seminar and
 
   We are extremely excited to announce that the keynote speaker is:
 
-  **Alexis King** : Research programmer at [Northwestern University
+  [**Alexis King**](https://lexi-lambda.github.io/) : Research programmer at [Northwestern University
   PLT](https://plt.eecs.northwestern.edu/) in Chicago, Illinois.
 
 ## When
@@ -101,9 +101,15 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
 
 ## Organizers
 
-  - [Harley Eades III](http://metatheorem.org/) (chair)
-  - [Clément Aubert](http://spots.augusta.edu/caubert/) (cochair)
-  - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (cochair)
+  - [Harley Eades III](http://metatheorem.org/), [Augusta
+University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
+[FORML lab](https://the-au-forml-lab.github.io/) (chair)
+  - [Clément Aubert](http://spots.augusta.edu/caubert/),[Augusta
+University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
+[FORML lab](https://the-au-forml-lab.github.io/) (cochair)
+  - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens), [Department of Computer Science at North Carolina State University](https://www.csc.ncsu.edu/), [POEM lab](https://sites.google.com/ncsu.edu/poem) (cochair)
+  
+  
 
 ## Sponsors
 
