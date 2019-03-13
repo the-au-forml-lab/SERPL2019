@@ -104,7 +104,7 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
   - [Harley Eades III](http://metatheorem.org/), [Augusta
 University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 [FORML lab](https://the-au-forml-lab.github.io/) (chair)
-  - [Clément Aubert](http://spots.augusta.edu/caubert/),[Augusta
+  - [Clément Aubert](http://spots.augusta.edu/caubert/), [Augusta
 University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 [FORML lab](https://the-au-forml-lab.github.io/) (cochair)
   - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens), [Department of Computer Science at North Carolina State University](https://www.csc.ncsu.edu/), [POEM lab](https://sites.google.com/ncsu.edu/poem) (cochair)
