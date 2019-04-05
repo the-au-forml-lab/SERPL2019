@@ -95,7 +95,7 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
 
   Student travel grant applications can be submitted by filling out
   the [student travel grant
-  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before April 8th. The application
+  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before April 20th. The application
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
