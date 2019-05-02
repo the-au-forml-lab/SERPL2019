@@ -12,7 +12,7 @@ SERPL Programme on May 11, 2019:
 
 - 8:30 - 9:15 : Registration and Snacks
 - 9:15 - 9:25 : Opening Remarks from the Dean of the School of Computer and Cyber Sciences, Alex Schwarzmann
-- 9:30 - 10:30 : (Keynote) TBA, [Alexis King](https://lexi-lambda.github.io/resume.html)
+- 9:30 - 10:30 : (Keynote) ["Metaprogramming Haskell, The Racket Way"](SERPL/includes/abstracts/Alexis-King.html), [Alexis King](https://lexi-lambda.github.io/resume.html)       
 - 10:35 - 11:05 : ["On Optimally Combining Static and Dynamic Analyses For Intensional Program Properties"](SERPL/includes/abstracts/Ravi-Mangal.pdf), Ravi Mangal
 - 11:10 - 11:40 : ["Semantic-Aware Synchronization Determinism and Beyond"](SERPL/includes/abstracts/Qi-Zhao.pdf), Qi Zhao
 - 11:45 - 12:20 : "Structural Equivalence in Reversible Calculus of Communicating Systems", Clément Aubert
