@@ -3,6 +3,11 @@ layout: page
 title: SERPL 2019 - Programme
 ---
 
+Rooms:
+  - Workshop: TBA
+  - Quiet Room: RV 2501
+  - Lunch: GCC Rooftop (take elevator 1)
+
 SERPL Programme on May 11, 2019:
 
 - 8:30 - 9:15 : Registration and Snacks
