@@ -4,7 +4,7 @@ title: SERPL 2019 - Programme
 ---
 
 Rooms:
-  - Workshop: TBA
+  - Workshop: RV 2201
   - Quiet Room: RV 2501
   - Lunch: GCC Rooftop (take elevator 1)
 
