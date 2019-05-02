@@ -23,3 +23,4 @@ SERPL Programme on May 11, 2019:
 - 15:10 - 15:40 : Break
 - 15:40 - 16:10 : ["Language-Level Support for Co-Creative Programming"](SERPL/includes/abstracts/Chris-Martens.pdf), Chris Martens
 - 16:15 - 16:45 : ["Understanding Database Usage in PHP Systems: Current and Future Work"](SERPL/includes/abstracts/Mark-Hills.pdf), Mark Hills
+- 16:45 - ???? : Gather a group for dinner
