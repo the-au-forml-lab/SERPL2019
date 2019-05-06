@@ -19,7 +19,7 @@ SERPL Programme on May 11, 2019:
 - 12:30 - 13:25 : Lunch on the rooftop of the GCC
 - 13:30 - 14:00 : ["Escaping the Clone Zone: Java Runtime-Managed Snapshots Current and Future Work"](includes/abstracts/Matt-Davis.pdf), Matt Davis
 - 14:05 - 14:35 : ["On the Internal and External View of Graded Linear Logic"](includes/abstracts/Preston-Keel.pdf), Preston Keel
-- 14:40 - 15:10 : "Developing the Theory of Resource-Sensitive Type Systems", Harley Eades
+- 14:40 - 15:10 : ["The Granule Project"](), Harley Eades
 - 15:10 - 15:40 : Break
 - 15:40 - 16:10 : ["Language-Level Support for Co-Creative Programming"](includes/abstracts/Chris-Martens.pdf), Chris Martens
 - 16:15 - 16:45 : ["Understanding Database Usage in PHP Systems: Current and Future Work"](includes/abstracts/Mark-Hills.pdf), Mark Hills
