@@ -13,7 +13,7 @@ SERPL Programme on May 11, 2019:
 - 8:30 - 9:15 : Registration and Snacks
 - 9:15 - 9:25 : Opening Remarks from the Dean of the School of Computer and Cyber Sciences, Alex Schwarzmann
 - 9:30 - 10:30 : (Keynote) "Metaprogramming Haskell, The Racket Way", [Alexis King](https://lexi-lambda.github.io/resume.html)  
-    [Abstract](includes/abstracts/Alexis-King.html), [Slides](includes/slides/Alexis-King.html)
+    [Abstract](includes/abstracts/Alexis-King.html), [Slides](includes/slides/Alexis-King.pdf)
 
 - 10:35 - 11:05 : "On Optimally Combining Static and Dynamic Analyses For Intensional Program Properties", [Ravi Mangal](https://www.cc.gatech.edu/~rmangal3/) (Georgia Tech)  
     [Abstract](includes/abstracts/Ravi-Mangal.pdf), [Slides](includes/slides/Ravi-Mangal.pdf)
