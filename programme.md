@@ -19,7 +19,7 @@ SERPL Programme on May 11, 2019:
     [Abstract](includes/abstracts/Ravi-Mangal.pdf), [Slides](includes/slides/Ravi-Mangal.pdf)
     
 - 11:10 - 11:40 : "Semantic-Aware Synchronization Determinism and Beyond", Qi Zhao (North Carolina State University)  
-    [Abstract](includes/abstracts/Qi-Zhao.pdf)
+    [Abstract](includes/abstracts/Qi-Zhao.pdf), [Slides](includes/slides/Qi-Zhao.pdf)
 
 - 11:45 - 12:20 : "Structural Equivalence in Reversible Calculus of Communicating Systems", [Clément Aubert](http://spots.augusta.edu/caubert/) (Augusta University)  
     [Abstract](includes/abstracts/Clement-Aubert.pdf), [Slides](includes/slides/Clement-Aubert.pdf)
@@ -29,16 +29,16 @@ SERPL Programme on May 11, 2019:
     [Abstract](includes/abstracts/Matt-Davis.pdf)
 
 - 14:05 - 14:35 : "On the Internal and External View of Graded Linear Logic", Preston Keel (Augusta University)  
-    [Abstract](includes/abstracts/Preston-Keel.pdf)
+    [Abstract](includes/abstracts/Preston-Keel.pdf), [Slides](includes/slides/Preston-Keel.pdf)
 
 - 14:40 - 15:10 : "The Granule Project", [Harley Eades](https://metatheorem.org/)  (Augusta University)  
     [Abstract](includes/abstracts/Harley-Eades.pdf)
 
 - 15:10 - 15:40 : Break
 - 15:40 - 16:10 : "Language-Level Support for Co-Creative Programming", [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (North Carolina State University)  
-    [Abstract](includes/abstracts/Chris-Martens.pdf)
+    [Abstract](includes/abstracts/Chris-Martens.pdf), [Slides](includes/slides/Chris-Martens.pdf)
 
 - 16:15 - 16:45 : "Understanding Database Usage in PHP Systems: Current and Future Work", [Mark Hills](http://www.cs.ecu.edu/hillsma/) (East Carolina University)  
-    [Abstract](includes/abstracts/Mark-Hills.pdf)
+    [Abstract](includes/abstracts/Mark-Hills.pdf), [Slides](includes/slides/Mark-Hills.pdf)
 
 - 16:45 - ???? : Gather a group for dinner
