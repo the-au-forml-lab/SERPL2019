@@ -19,20 +19,20 @@ SERPL Programme on May 11, 2019:
     [Abstract](includes/abstracts/Ravi-Mangal.pdf), [Slides](includes/slides/Ravi-Mangal.pdf)
     
 - 11:10 - 11:40 : "Semantic-Aware Synchronization Determinism and Beyond", Qi Zhao (North Carolina State University)  
-    [Abstract](includes/abstracts/Qi-Zhao.pdf), [Slides](includes/slides/Qi-Zhao.pdf)
+    [Abstract](includes/abstracts/Qi-Zhao.pdf), [Slides](includes/slides/Qi-Zhao.pdf) ([in pptx](includes/slides/Qi-Zhao.pptx))
 
 - 11:45 - 12:20 : "Structural Equivalence in Reversible Calculus of Communicating Systems", [Clément Aubert](http://spots.augusta.edu/caubert/) (Augusta University)  
     [Abstract](includes/abstracts/Clement-Aubert.pdf), [Slides](includes/slides/Clement-Aubert.pdf)
 
 - 12:30 - 13:25 : Lunch on the rooftop of the GCC
 - 13:30 - 14:00 : "Escaping the Clone Zone: Java Runtime-Managed Snapshots Current and Future Work", Matt Davis (East Carolina University)  
-    [Abstract](includes/abstracts/Matt-Davis.pdf)
+    [Abstract](includes/abstracts/Matt-Davis.pdf), [Slides in pptx](includes/slides/Matt-Davis.pptx)
 
 - 14:05 - 14:35 : "On the Internal and External View of Graded Linear Logic", Preston Keel (Augusta University)  
-    [Abstract](includes/abstracts/Preston-Keel.pdf), [Slides](includes/slides/Preston-Keel.pdf)
+    [Abstract](includes/abstracts/Preston-Keel.pdf), [Slides](includes/slides/Preston-Keel.pdf) ([in key](includes/slides/Preston-Keel.key))
 
 - 14:40 - 15:10 : "The Granule Project", [Harley Eades](https://metatheorem.org/)  (Augusta University)  
-    [Abstract](includes/abstracts/Harley-Eades.pdf)
+    [Abstract](includes/abstracts/Harley-Eades.pdf), [Slides](includes/slides/Harley-Eades.pdf)
 
 - 15:10 - 15:40 : Break
 - 15:40 - 16:10 : "Language-Level Support for Co-Creative Programming", [Chris Martens](https://sites.google.com/ncsu.edu/cmartens) (North Carolina State University)  
