@@ -42,3 +42,5 @@ SERPL Programme on May 11, 2019:
     [Abstract](includes/abstracts/Mark-Hills.pdf), [Slides](includes/slides/Mark-Hills.pdf)
 
 - 16:45 - ???? : Gather a group for dinner
+
+<a href="images/group_picture.jpg><img style="width:50%; margin:auto; display:block" src="images/group_picture_reduced.jpg"></a>
