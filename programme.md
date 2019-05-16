@@ -26,7 +26,7 @@ SERPL Programme on May 11, 2019:
 
 - 12:30 - 13:25 : Lunch on the rooftop of the GCC
 - 13:30 - 14:00 : "Escaping the Clone Zone: Java Runtime-Managed Snapshots Current and Future Work", Matt Davis (East Carolina University)  
-    [Abstract](includes/abstracts/Matt-Davis.pdf), [Slides in pptx](includes/slides/Matt-Davis.pptx)
+    [Abstract](includes/abstracts/Matt-Davis.pdf), [Slides](includes/slides/Matt-Davis.pdf) ([in pptx](includes/slides/Matt-Davis.pptx)
 
 - 14:05 - 14:35 : "On the Internal and External View of Graded Linear Logic", Preston Keel (Augusta University)  
     [Abstract](includes/abstracts/Preston-Keel.pdf), [Slides](includes/slides/Preston-Keel.pdf) ([in key](includes/slides/Preston-Keel.key))
