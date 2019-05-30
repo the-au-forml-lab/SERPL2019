@@ -51,8 +51,12 @@ SERPL Programme on May 11, 2019:
     <th></th>
   </tr>
   <tr>
+    <td></td>
     <td>Aubrey Bryant, Mark Hills, Shivan Bhatt, Matt Davis, Alexis King, Aleksei Vilkomir, Harley Eades,</td>
-    <td>Qi Zhao, Ravi Mangal, Clément Aubert, James ?</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td>Qi Zhao, Ravi Mangal, Clément Aubert, James</td>
   </tr>
 </table> 
 </div>
