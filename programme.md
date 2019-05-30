@@ -56,7 +56,7 @@ SERPL Programme on May 11, 2019:
     </tr>
     <tr>
     <td></td>
-    <td>Qi Zhao, Ravi Mangal, Clément Aubert, James</td>
+    <td>Qi Zhao, Ravi Mangal, Clément Aubert, James O'meara</td>
   </tr>
 </table> 
 </div>
